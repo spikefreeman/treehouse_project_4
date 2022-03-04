@@ -1,0 +1,17 @@
+
+//COLOURS ----------------------------------------------------
+
+$color_main: #58e1c1;
+$color_main_lighter: lighten($color_main, 25%);
+$color_main_darker: darken($color_main, 25%);
+
+
+$color_secondary: #51ddfc;
+$color_secondary_lighter: lighten($color_secondary, 25%);
+$color_secondary_darker: darken($color_secondary, 25%);
+
+$color_background: #777;
+
+//BREAKPOINTS ------------------------------------------------
+
+$mq: 768px;
